@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.0)
+project( Lab4 )
+find_package( OpenCV REQUIRED )
+add_executable( Lab4 Local_Feature.cpp)
+target_link_libraries( Lab4 ${OpenCV_LIBS} )
