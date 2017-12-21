@@ -1,0 +1,4 @@
+/Users/Nicola/Downloads/CV/Lab5/build/CMakeFiles/rebuild_cache.dir
+/Users/Nicola/Downloads/CV/Lab5/build/CMakeFiles/edit_cache.dir
+/Users/Nicola/Downloads/CV/Lab5/build/CMakeFiles/Camera_track.dir
+/Users/Nicola/Downloads/CV/Lab5/build/CMakeFiles/Local_Feature.dir
